@@ -1,0 +1,6 @@
+*
+!miles
+!tests
+!setup.py
+!requirements.txt
+**/__pycache__
